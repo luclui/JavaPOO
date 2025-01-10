@@ -1,2 +1,2 @@
-package PACKAGE_NAME;public class Arara {
+public class Arara extends Ave{
 }

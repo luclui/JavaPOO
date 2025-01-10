@@ -1,2 +1,2 @@
-package PACKAGE_NAME;public class Goldfish {
+public class Goldfish extends Peixe{
 }
